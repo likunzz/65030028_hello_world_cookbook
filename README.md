@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/29e002b8-7be0-4e48-afc9-9ebeef373049)![image](https://github.com/user-attachments/assets/df63fc60-e7ec-485e-8a51-d1261d371a4c)# แนวทางการทำงาน ESP32 hello_world cook book
+# แนวทางการทำงาน ESP32 hello_world cook book
 ## 1. ระบุตัวอย่างที่ใช้ว่าเอามาจากตัวอย่างไหน
 เลือกโปรเจค hello_world จาก show examples แล้วกด create
 ![image](https://github.com/user-attachments/assets/6bc2b934-056a-4906-a37e-dd3d41e2e5b6)
