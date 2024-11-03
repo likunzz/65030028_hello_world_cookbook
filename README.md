@@ -12,7 +12,7 @@
 ![image](https://github.com/user-attachments/assets/252b13bf-6825-4f35-9b9d-a7a349924f12)
 
 ## 4.แสดงผลการทำ project
-แสดงผลตามโค้ดด้านบน
+
 ![image](https://github.com/user-attachments/assets/309551d6-bafb-44f1-99fa-0240c4116558)
 
 ## 5.สรุปผลการทำ project
